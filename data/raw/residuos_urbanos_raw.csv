@@ -1,0 +1,1096 @@
+﻿ID_Registro,Fecha_Medicion,Provincia,Tipo_Residuo,Toneladas
+REG-1533,09/04/2024,Córdoba,Orgánico,2782.99
+REG-1139,30/06/2025,Buenos Aires,Peligrosos,1485.73
+REG-1088,06/04/2025,Buenos Aires,Orgánico,257.19
+REG-1841,24/03/2025,santa fe,Vidrio,1772.48
+REG-1985,20/01/2026,Córdoba,Orgánico,3973.28
+REG-2037,23/10/2025,Córdoba,Plásticos,613.34
+REG-1286,17/04/2025,Buenos Aires,Papel y Cartón,3196.09
+REG-1602,25/10/2025,Tucumán,Plásticos,514.93
+REG-1321,10/09/2024,Córdoba,Orgánico,3730.97
+REG-1715,31/03/2025,Buenos Aires,Orgánico,2827.73
+REG-1926,25/09/2025,Mendoza,Plásticos,1219.16
+REG-1948,16/02/2024,Salta,Vidrio,1538.97
+REG-1997,29/09/2024,Salta,Orgánico,4220.34
+REG-1599,08/04/2024,Córdoba,Plásticos,5803.71
+REG-1567,12/01/2024,Salta,Peligrosos,1409.64
+REG-1675,05/03/2026,Mendoza,Orgánico,
+REG-1543,16/01/2024,Misiones,Papel y Cartón,978.23
+REG-1519,05/08/2024,Bs As,Orgánico,291.49
+REG-1765,08/01/2024,Misiones,Plásticos,1688.42
+REG-1767,13/12/2024,Córdoba,Orgánico,1260.87
+REG-1044,20/07/2025,Salta,Orgánico,4281.25
+REG-1208,13/11/2024,Córdoba,Peligrosos,1568.16
+REG-1158,12/01/2026,Tucumán,Plásticos,2889.59
+REG-1070,21/03/2024,Córdoba ,Plásticos,2481.34
+REG-1199,24/09/2025,Santa Fe,Orgánico,1853.29
+REG-1718,21/01/2025,mendoza,Orgánico,3659.87
+REG-1318,23/02/2025,Córdoba,Vidrio,3213.93
+REG-1388,29/08/2025,Salta,Orgánico,996.92
+REG-1096,03/12/2024,Tucumán,Plásticos,667.97
+REG-1086,27/09/2024,Córdoba ,Papel y Cartón,1467.93
+REG-1344,18/11/2025,Misiones,Vidrio,6628.97
+REG-1451,22/11/2025,Mendoza,Orgánico,2476.94
+REG-1581,08/09/2025,Córdoba,Orgánico,3097.99
+REG-1051,15/06/2024,Misiones,Vidrio,4177.11
+REG-1247,02/11/2025,Córdoba ,Papel y Cartón,1572.16
+REG-1156,21/11/2025,Santa Fe,Peligrosos,5441.56
+REG-1757,12/01/2024,Buenos Aires,Plásticos,2642.91
+REG-1493,27/04/2024,Misiones,Peligrosos,337.6
+REG-1290,02/09/2025,Mendoza,Vidrio,251.68
+REG-1506,02/06/2024,Buenos Aires,Metales,2101.06
+REG-1056,14/01/2024,Mendoza,Metales,2924.72
+REG-2027,22/11/2025,Misiones,Papel y Cartón,1577.83
+REG-1394,09/06/2024,Chaco,Orgánico,4557.84
+REG-1872,25/02/2025,Córdoba,Plásticos,1937.83
+REG-1572,23/01/2026,Mendoza,Papel y Cartón,2572.29
+REG-1174,30/08/2024,Chaco,Orgánico,378.68
+REG-1696,18/02/2025,Misiones,Papel y Cartón,2682.16
+REG-1561,20/02/2025,Misiones,Plásticos,4574.12
+REG-1666,06/05/2025,Chaco,Plásticos,1599.34
+REG-1107,05/03/2024,Salta,Orgánico,1331.04
+REG-1630,06/03/2026,Buenos Aires,Metales,1076.76
+REG-1367,30/05/2025,Mendoza,Plásticos,4019.65
+REG-1323,21/04/2024,Córdoba,Papel y Cartón,3784.26
+REG-1911,30/01/2026,buenos aires,Papel y Cartón,1464.37
+REG-1847,12/03/2024,Santa Fe,Orgánico,840.35
+REG-1730,15/11/2025,Misiones,Orgánico,273.87
+REG-1101,06/07/2024,Córdoba,Plásticos,2219.54
+REG-1453,21/02/2026,Salta,Papel y Cartón,1709.0
+REG-1589,23/02/2025,Chaco,Plásticos,618.93
+REG-1712,27/02/2024,Buenos Aires,Plásticos,3622.19
+REG-1270,14/12/2024,Chaco,Plásticos,2582.31
+REG-1031,09/09/2024,Santa Fe,Papel y Cartón,1209.74
+REG-1673,18/06/2024,Salta,Metales,3515.42
+REG-1970,18/04/2025,Misiones,Plásticos,1891.05
+REG-1237,19/07/2025,Mendoza,Plásticos,1505.8
+REG-1109,09/12/2024,Misiones,Vidrio,2433.88
+REG-1516,19/01/2026,Buenos Aires,Vidrio,1238.07
+REG-1935,08/02/2025,Salta,Orgánico,2545.57
+REG-1427,15/11/2025,Mendoza,Papel y Cartón,2998.18
+REG-1307,20/10/2025,Tucumán,Vidrio,1104.07
+REG-1428,20/01/2024,Córdoba,Orgánico,985.88
+REG-2012,25/05/2024,Misiones,Plásticos,1877.2
+REG-2017,03/02/2024,Tucumán,Vidrio,2006.02
+REG-1616,18/08/2025,Misiones,Plásticos,1688.63
+REG-1808,03/03/2024,Tucumán,Orgánico,894.32
+REG-1697,25/02/2026,Santa Fe,Orgánico,4365.87
+REG-1371,26/05/2025,Santa Fe,Plásticos,2549.88
+REG-1601,05/04/2024,Salta,Orgánico,2032.8
+REG-1334,02/08/2025,Mendoza,Orgánico,2119.87
+REG-2048,25/10/2025,Chaco,Plásticos,342.45
+REG-1954,16/04/2024,Tucumán,Vidrio,4117.33
+REG-1458,22/02/2024,Chaco,Plásticos,2108.56
+REG-1273,02/02/2026,Santa Fe,Papel y Cartón,1213.81
+REG-1596,10/07/2024,Buenos Aires,Vidrio,820.3
+REG-1475,29/04/2024,Misiones,Plásticos,3124.02
+REG-1306,08/04/2024,Chaco,Plásticos,2843.07
+REG-1545,01/12/2024,Córdoba,Orgánico,483.12
+REG-1462,12/04/2024,Córdoba,Papel y Cartón,3560.48
+REG-1352,17/08/2024,Tucumán,Orgánico,1038.35
+REG-1862,04/02/2025,Misiones,Plásticos,350.86
+REG-1629,30/03/2025,Chaco,Orgánico,1568.52
+REG-1650,23/11/2025,Chaco,Plásticos,1677.29
+REG-1059,11/12/2024,Tucumán,Vidrio,11482.05
+REG-1192,17/04/2025,Mendoza,Papel y Cartón,3631.98
+REG-1309,10/05/2024,Chaco,Plásticos,1697.1
+REG-1981,03/01/2024,SANTA FE,Papel y Cartón,1541.5
+REG-1409,30/09/2025,Misiones,Papel y Cartón,8680.46
+REG-1435,22/05/2024,Buenos Aires,Vidrio,5427.81
+REG-1976,27/10/2025,Misiones,Plásticos,2068.29
+REG-1436,01/04/2024,Misiones,Orgánico,1658.49
+REG-1023,17/02/2025,Córdoba ,Orgánico,1580.54
+REG-1536,31/01/2026,Buenos Aires,Vidrio,3494.51
+REG-1996,08/02/2024,mendoza,Papel y Cartón,1214.45
+REG-2019,14/02/2026,Tucumán,Plásticos,630.9
+REG-1289,24/10/2024,Misiones,Orgánico,1023.57
+REG-1597,08/01/2026,Misiones,Papel y Cartón,6376.37
+REG-1485,27/01/2025,Tucumán,Plásticos,2257.78
+REG-1256,05/02/2026,Buenos Aires,Plásticos,1107.94
+REG-1759,05/01/2026,Córdoba,Vidrio,1810.02
+REG-1083,10/06/2024,Tucumán,Orgánico,1037.35
+REG-1113,03/03/2024,Mendoza,Peligrosos,911.65
+REG-1953,15/12/2024,Mendoza,Papel y Cartón,2124.54
+REG-1198,09/10/2024,Misiones,Orgánico,792.66
+REG-1809,04/08/2024,Salta,Plásticos,643.77
+REG-1141,04/09/2025,Mendoza,Orgánico,726.15
+REG-1209,07/11/2025,Mendoza,Plásticos,510.35
+REG-1678,31/05/2025,Bs. As.,Vidrio,1279.05
+REG-2038,03/10/2024,Buenos Aires,Plásticos,4067.32
+REG-1542,30/05/2025,Misiones,Plásticos,2652.02
+REG-1049,08/10/2025,Córdoba,Metales,1761.7
+REG-1275,11/12/2024,Tucumán,Orgánico,1494.1
+REG-1634,17/07/2025,Tucumán,Orgánico,1461.14
+REG-1218,20/08/2024,Buenos Aires,Orgánico,585.5
+REG-1864,05/02/2026,Chaco,Plásticos,1762.68
+REG-1076,15/04/2024,Misiones,Papel y Cartón,1135.19
+REG-1605,05/01/2026,Buenos Aires,Plásticos,3248.33
+REG-1010,02/08/2024,Santa Fe,Orgánico,506.89
+REG-1440,20/02/2024,Chaco,Papel y Cartón,4680.89
+REG-1652,04/07/2024,Chaco,Orgánico,1799.28
+REG-1902,12/02/2026,Chaco,Papel y Cartón,725.82
+REG-1404,16/11/2025,Córdoba,Papel y Cartón,3886.22
+REG-1457,20/09/2024,Tucumán,Plásticos,2972.65
+REG-1940,11/12/2024,Misiones,Plásticos,955.65
+REG-1915,08/01/2025,Salta,Plásticos,2490.28
+REG-1693,11/05/2024,Mendoza,Vidrio,
+REG-1789,24/01/2025,Buenos Aires,Vidrio,5124.09
+REG-1913,01/07/2024,Chaco,Orgánico,5799.14
+REG-1354,16/07/2025,Misiones,Orgánico,1470.26
+REG-1977,09/06/2025,Santa Fe,Vidrio,163.8
+REG-1947,05/09/2024,Córdoba,Orgánico,2153.54
+REG-2010,20/08/2024,Buenos Aires,Orgánico,2781.08
+REG-1798,05/01/2024,cordoba,Papel y Cartón,1583.48
+REG-1178,12/11/2025,Mendoza,Vidrio,
+REG-1076,15/04/2024,Misiones,Papel y Cartón,1135.19
+REG-2005,30/07/2024,Mendoza,Orgánico,697.83
+REG-1430,14/02/2026,Buenos Aires,Plásticos,4987.74
+REG-1984,28/12/2024,Misiones,Papel y Cartón,3903.99
+REG-1951,26/08/2024,cordoba,Orgánico,1320.65
+REG-1568,29/08/2025,Buenos Aires,Orgánico,3616.66
+REG-1617,29/12/2025,Chaco,Vidrio,5352.55
+REG-1078,21/04/2025,Córdoba,Orgánico,338.85
+REG-1946,04/03/2026,BUENOS AIRES ,Orgánico,3940.07
+REG-1952,25/02/2024,Santa Fe,Orgánico,2759.14
+REG-1405,02/03/2026,cordoba,Orgánico,6948.3
+REG-1722,09/07/2024,Misiones,Orgánico,1867.85
+REG-1523,04/07/2025,Tucumán,Plásticos,2149.39
+REG-1243,09/05/2024,Buenos Aires,Papel y Cartón,4962.84
+REG-1039,30/11/2025,Santa Fe,Plásticos,6182.1
+REG-1030,22/01/2024,Salta,Peligrosos,4533.97
+REG-1927,20/02/2024,Córdoba,Plásticos,3819.01
+REG-1136,08/04/2024,Misiones,Papel y Cartón,1697.86
+REG-1054,23/08/2025,Chaco,Plásticos,1444.98
+REG-1932,26/08/2025,Chaco,Orgánico,5511.38
+REG-1280,03/05/2025,Tucumán,Vidrio,1886.99
+REG-1525,15/10/2024,Bs As,Metales,4448.34
+REG-1964,19/12/2025,Salta,Papel y Cartón,1755.74
+REG-1362,31/08/2025,Buenos Aires,Papel y Cartón,1592.98
+REG-1708,14/10/2025,Chaco,Vidrio,876.92
+REG-1003,16/04/2024,Salta,Plásticos,
+REG-1499,07/07/2024,Tucumán,Orgánico,6214.64
+REG-1518,22/07/2024,Tucumán,Plásticos,2923.69
+REG-1423,11/02/2025,Santa Fe,Papel y Cartón,4501.11
+REG-1792,09/12/2025,Buenos Aires,Plásticos,3431.74
+REG-1814,14/04/2024,Mendoza,Vidrio,4526.92
+REG-1319,25/02/2025,Tucumán,Plásticos,1074.74
+REG-1689,25/05/2025,Mendoza,Orgánico,1796.73
+REG-1058,15/02/2026,Salta,Papel y Cartón,833.32
+REG-1063,01/01/2025,Córdoba,Orgánico,4266.98
+REG-1244,22/02/2024,Buenos Aires,Papel y Cartón,5132.4
+REG-1390,30/11/2025,Mendoza,Plásticos,3078.35
+REG-1355,13/03/2025,Salta,Plásticos,2460.06
+REG-1100,02/02/2026,Córdoba,Plásticos,4558.22
+REG-1168,19/06/2024,Tucumán,Orgánico,979.47
+REG-1528,22/12/2024,Córdoba,Plásticos,2838.95
+REG-1346,14/04/2025,Misiones,Plásticos,4447.47
+REG-1884,14/06/2024,buenos aires,Vidrio,4125.09
+REG-1514,16/02/2024,Córdoba,Vidrio,5517.22
+REG-1380,08/04/2024,Chaco,Plásticos,9142.26
+REG-1761,23/12/2024,MENDOZA,Vidrio,1196.13
+REG-1260,16/07/2024,Salta,Peligrosos,1522.83
+REG-1210,12/08/2024,Salta,Plásticos,3192.18
+REG-1231,21/03/2024,Misiones,Plásticos,2738.3
+REG-1413,23/02/2026,Salta,Plásticos,960.14
+REG-1762,11/02/2025,Santa Fe,Plásticos,2188.78
+REG-1066,23/05/2025,Chaco,Orgánico,2559.58
+REG-1296,25/07/2025,Chaco,Papel y Cartón,5952.65
+REG-1067,14/02/2026,Misiones,Plásticos,3511.13
+REG-1551,25/10/2025,Tucumán,Papel y Cartón,1107.31
+REG-1012,03/04/2025,Salta,Vidrio,805.08
+REG-1481,18/04/2025,Salta,Plásticos,1209.9
+REG-1535,10/08/2024,Córdoba,Orgánico,4364.51
+REG-1477,26/08/2025,Chaco,Papel y Cartón,906.92
+REG-1670,22/06/2024,Mendoza,Vidrio,1335.97
+REG-1811,19/11/2025,Salta,Vidrio,3538.31
+REG-1736,21/07/2024,Misiones,Orgánico,1094.75
+REG-1184,11/09/2025,Tucumán,Papel y Cartón,1318.43
+REG-1333,09/06/2024,Tucumán,Orgánico,1965.23
+REG-1908,12/02/2024,Mendoza,Papel y Cartón,4508.08
+REG-1921,13/07/2024,Buenos Aires,Plásticos,1446.61
+REG-1917,25/12/2024,cordoba,Plásticos,704.93
+REG-1321,10/09/2024,Córdoba,Orgánico,3730.97
+REG-1966,30/09/2025,Misiones,Orgánico,2901.33
+REG-1220,22/04/2024,Chaco,Metales,2567.12
+REG-1755,17/10/2025,santa fe,Plásticos,1840.06
+REG-1711,29/09/2025,Córdoba,Metales,804.67
+REG-1331,20/12/2025,Misiones,Plásticos,187.08
+REG-1361,08/03/2026,Tucumán,Papel y Cartón,410.28
+REG-1817,19/01/2025,Chaco,Vidrio,738.55
+REG-1002,27/09/2024,Mendoza,Plásticos,1040.46
+REG-1006,21/01/2024,Buenos Aires,Orgánico,4378.28
+REG-1575,30/03/2024,Tucumán,Papel y Cartón,6307.07
+REG-1821,09/12/2025,Misiones,Vidrio,1543.36
+REG-1475,29/04/2024,Misiones,Plásticos,3124.02
+REG-1905,23/07/2024,Mendoza,Orgánico,975.52
+REG-1332,11/11/2025,Misiones,Vidrio,1548.31
+REG-1529,23/01/2024,Tucumán,Plásticos,2324.32
+REG-1866,25/07/2024,Salta,Plásticos,1543.49
+REG-1215,02/11/2025,Misiones,Plásticos,1896.08
+REG-1551,25/10/2025,Tucumán,Papel y Cartón,1107.31
+REG-1522,06/12/2024,Salta,Plásticos,466.36
+REG-1796,29/08/2024,Buenos Aires,Peligrosos,1859.38
+REG-1328,03/12/2024,SANTA FE,Metales,4165.06
+REG-1429,16/11/2024,Tucumán,Orgánico,2942.05
+REG-1848,04/07/2025,Chaco,Orgánico,3940.42
+REG-1467,17/10/2025,CORDOBA,Vidrio,1009.44
+REG-1644,18/07/2025,Salta,Plásticos,3820.94
+REG-1979,07/11/2024,Salta,Papel y Cartón,823.83
+REG-1906,05/05/2024,Chaco,Orgánico,3256.22
+REG-1604,08/07/2024,Buenos Aires,Plásticos,2837.27
+REG-1760,22/02/2026,Salta,Peligrosos,1084.17
+REG-1877,07/04/2024,Salta,Plásticos,949.95
+REG-1726,26/04/2024,Tucumán,Orgánico,1635.02
+REG-1265,19/07/2024,Chaco,Papel y Cartón,5328.37
+REG-1688,18/10/2025,Tucumán,Papel y Cartón,2650.67
+REG-1025,10/07/2024,Buenos Aires,Metales,3174.09
+REG-1299,10/09/2024,Tucumán,Plásticos,942.11
+REG-1294,11/12/2024,Santa Fe,Vidrio,1745.27
+REG-1993,29/04/2025,Chaco,Metales,1330.83
+REG-1365,28/03/2025,Buenos Aires,Orgánico,2456.54
+REG-1106,15/01/2024,Buenos Aires,Plásticos,4118.61
+REG-1618,07/12/2024,Córdoba,Peligrosos,2409.81
+REG-1055,11/11/2024,Misiones,Vidrio,6351.86
+REG-1675,05/03/2026,Mendoza,Orgánico,
+REG-1213,25/10/2025,Tucumán,Papel y Cartón,4372.22
+REG-1120,15/10/2024,Tucumán,Peligrosos,819.75
+REG-1432,03/02/2025,Santa Fe,Plásticos,1218.25
+REG-1745,16/02/2024,Sta Fe,Plásticos,1295.53
+REG-1072,22/01/2025,Córdoba,Orgánico,1730.5
+REG-1615,02/03/2024,Buenos Aires,Plásticos,1201.09
+REG-2018,14/09/2025,Tucumán,Plásticos,5712.6
+REG-1292,02/02/2026,Chaco,Vidrio,2416.64
+REG-1764,07/01/2025,Córdoba,Peligrosos,4435.1
+REG-1420,12/11/2025,Córdoba ,Plásticos,3521.83
+REG-1613,08/03/2026,Salta,Plásticos,1376.14
+REG-1298,30/10/2024,Salta,Orgánico,5544.68
+REG-1342,01/10/2025,Mendoza,Papel y Cartón,760.07
+REG-1758,25/11/2024,Santa Fe,Plásticos,1038.12
+REG-1513,09/03/2024,Córdoba,Orgánico,2300.19
+REG-1679,29/01/2024,Córdoba ,Orgánico,1618.21
+REG-1377,15/02/2024,Salta,Vidrio,
+REG-1494,13/07/2025,Misiones,Peligrosos,9207.36
+REG-1411,04/05/2025,Chaco,Plásticos,966.82
+REG-1060,18/07/2025,Misiones,Plásticos,375.77
+REG-1448,23/07/2025,Santa Fe,Plásticos,2386.56
+REG-1092,22/10/2024,Misiones,Vidrio,504.18
+REG-1653,01/02/2025,Salta,Orgánico,2708.78
+REG-1277,26/05/2024,Córdoba,Plásticos,1124.19
+REG-1852,13/03/2025,Salta,Vidrio,3829.92
+REG-2034,11/01/2025,Mendoza,Vidrio,700.01
+REG-1570,09/09/2024,Sta Fe,Orgánico,1700.7
+REG-1598,19/11/2025,Salta,Vidrio,2133.5
+REG-1182,06/03/2026,Mendoza,Papel y Cartón,1609.99
+REG-1532,27/01/2026,Santa Fe,Plásticos,1601.32
+REG-1308,26/07/2024,Chaco,Plásticos,1471.34
+REG-1110,08/05/2024,cordoba,Vidrio,617.65
+REG-1566,31/01/2025,Mendoza,Plásticos,3551.16
+REG-1790,16/08/2025,Santa Fe,Vidrio,2413.35
+REG-1721,19/05/2025,Tucumán,Vidrio,4401.04
+REG-1781,19/07/2024,Chaco,Metales,635.49
+REG-1928,06/02/2025,Santa Fe,Plásticos,4225.39
+REG-1657,11/06/2024,Córdoba,Vidrio,1245.61
+REG-1261,25/05/2025,Córdoba,Orgánico,2768.75
+REG-1336,03/10/2024,Chaco,Vidrio,1267.96
+REG-1538,17/03/2025,Córdoba,Plásticos,2998.43
+REG-1554,14/01/2025,Mendoza,Orgánico,1580.87
+REG-1855,01/11/2024,Salta,Vidrio,3243.21
+REG-1137,14/11/2025,Misiones,Peligrosos,520.03
+REG-1584,17/09/2025,Buenos Aires,Plásticos,3975.1
+REG-1352,17/08/2024,Tucumán,Orgánico,1038.35
+REG-1879,30/11/2024,Tucumán,Plásticos,2602.71
+REG-1486,02/10/2025,Buenos Aires,Papel y Cartón,1484.58
+REG-1885,25/04/2025,Mendoza,Plásticos,2324.05
+REG-2030,07/01/2026,Tucumán,Papel y Cartón,879.38
+REG-1029,09/11/2024,Mendoza,Papel y Cartón,1316.65
+REG-1165,18/08/2024,Chaco,Peligrosos,4078.48
+REG-1248,10/12/2025,Tucumán,Vidrio,2455.27
+REG-1381,14/01/2026,Misiones,Orgánico,1160.96
+REG-1359,13/08/2024,Tucumán,Papel y Cartón,10073.81
+REG-1327,01/06/2024,Chaco,Orgánico,575.36
+REG-1851,04/11/2025,Salta,Papel y Cartón,1762.35
+REG-1949,30/04/2024,Tucumán,Vidrio,2678.72
+REG-1439,27/12/2025,Salta,Metales,4516.75
+REG-1398,18/01/2024,mendoza,Orgánico,834.57
+REG-1858,23/08/2024,Mendoza,Orgánico,379.79
+REG-1704,08/02/2024,Tucumán,Papel y Cartón,
+REG-1065,03/03/2025,Misiones,Plásticos,1777.93
+REG-1965,29/10/2024,Mendoza,Plásticos,3430.94
+REG-1967,25/02/2024,BUENOS AIRES ,Orgánico,4850.05
+REG-1869,15/03/2024,Sta Fe,Plásticos,6932.32
+REG-1254,02/05/2024,Chaco,Plásticos,322.66
+REG-1783,05/04/2025,Tucumán,Plásticos,2054.12
+REG-1312,23/02/2024,Tucumán,Plásticos,1596.47
+REG-1593,06/11/2025,Santa Fe,Papel y Cartón,1249.83
+REG-1221,11/05/2025,Buenos Aires,Plásticos,6822.35
+REG-1235,03/10/2025,Buenos Aires,Vidrio,4728.64
+REG-1424,08/06/2025,Mendoza,Plásticos,2532.65
+REG-1590,29/12/2025,Buenos Aires,Metales,2023.68
+REG-1305,20/08/2024,Chaco,Vidrio,3917.76
+REG-1351,07/02/2024,Misiones,Peligrosos,624.41
+REG-1636,01/01/2025,Tucumán,Vidrio,2849.38
+REG-2041,17/05/2025,Bs As,Metales,1833.6
+REG-1249,19/02/2025,Chaco,Plásticos,1661.51
+REG-1706,26/03/2025,Buenos Aires,Papel y Cartón,2855.08
+REG-1479,11/12/2024,Salta,Orgánico,1507.49
+REG-1071,15/07/2025,Santa Fe,Plásticos,2118.09
+REG-1094,20/12/2025,Santa Fe,Vidrio,270.16
+REG-1033,14/07/2025,Buenos Aires,Vidrio,3274.74
+REG-1777,09/01/2026,Misiones,Plásticos,691.35
+REG-1259,01/09/2025,Tucumán,Plásticos,2115.93
+REG-1204,10/12/2025,Chaco,Orgánico,3044.41
+REG-1447,09/11/2024,Salta,Plásticos,1215.35
+REG-1677,12/07/2024,Santa Fe,Papel y Cartón,531.18
+REG-1591,03/10/2024,Tucumán,Orgánico,4102.13
+REG-1077,10/02/2026,Salta,Vidrio,1737.15
+REG-1084,20/07/2024,Chaco,Papel y Cartón,4959.56
+REG-1526,10/09/2024,Misiones,Plásticos,1838.25
+REG-1082,09/07/2025,Mendoza,Papel y Cartón,803.71
+REG-1482,26/04/2024,Misiones,Plásticos,4177.74
+REG-1541,20/11/2024,Córdoba,Peligrosos,4118.56
+REG-1900,09/03/2024,Córdoba,Orgánico,572.22
+REG-1896,04/02/2025,Córdoba ,Metales,418.61
+REG-1465,15/12/2024,Mendoza,Plásticos,2536.31
+REG-1557,02/03/2025,Córdoba,Plásticos,3329.71
+REG-1350,31/10/2025,buenos aires,Orgánico,4402.22
+REG-1700,15/06/2024,Chaco,Papel y Cartón,3022.25
+REG-1005,01/12/2025,Misiones,Papel y Cartón,2048.48
+REG-1310,07/02/2025,Santa Fe,Orgánico,3091.76
+REG-1692,27/10/2024,Santa Fe,Orgánico,1786.38
+REG-1104,10/02/2024,Santa Fe,Vidrio,478.33
+REG-1097,22/02/2024,Mendoza,Orgánico,128.46
+REG-1682,04/12/2024,Mendoza,Plásticos,3212.39
+REG-1617,29/12/2025,Chaco,Vidrio,5352.55
+REG-1314,03/11/2025,Salta,Plásticos,290.94
+REG-2004,08/06/2025,Chaco,Papel y Cartón,994.38
+REG-1501,22/03/2025,Salta,Plásticos,8667.77
+REG-2013,20/04/2024,Chaco,Orgánico,2919.55
+REG-1281,01/10/2025,Misiones,Peligrosos,799.86
+REG-1665,14/03/2024,Tucumán,Plásticos,746.55
+REG-1266,03/05/2024,Santa Fe,Vidrio,1349.52
+REG-1549,08/06/2024,Buenos Aires,Orgánico,1165.19
+REG-1238,05/01/2026,Santa Fe,Plásticos,657.58
+REG-2007,02/08/2025,Santa Fe,Orgánico,6511.42
+REG-1145,05/01/2024,Chaco,Orgánico,1306.88
+REG-2022,17/08/2025,Mendoza,Plásticos,2957.18
+REG-1423,11/02/2025,Santa Fe,Papel y Cartón,4501.11
+REG-1816,25/05/2025,Misiones,Plásticos,1124.65
+REG-1118,05/11/2025,Santa Fe,Plásticos,1718.68
+REG-1507,17/10/2025,Misiones,Metales,1492.39
+REG-1934,17/06/2025,Santa Fe,Plásticos,304.95
+REG-1250,03/09/2024,Santa Fe,Orgánico,4401.13
+REG-1594,28/01/2025,Córdoba,Papel y Cartón,5045.28
+REG-1285,17/02/2026,Córdoba,Plásticos,1217.24
+REG-1828,14/12/2025,Misiones,Orgánico,2156.51
+REG-1009,11/04/2025,Santa Fe,Metales,735.22
+REG-1445,04/05/2024,Salta,Orgánico,5048.49
+REG-1196,19/01/2025,Salta,Plásticos,2813.66
+REG-1714,20/04/2025,Tucumán,Plásticos,666.77
+REG-1370,18/02/2024,Tucumán,Plásticos,889.26
+REG-1081,30/12/2025,Santa Fe,Plásticos,1365.28
+REG-1389,08/04/2024,Tucumán,Plásticos,4950.77
+REG-1959,13/09/2024,Buenos Aires,Plásticos,4290.9
+REG-1578,24/08/2025,Mendoza,Orgánico,2826.0
+REG-1731,02/11/2025,Tucumán,Metales,3057.56
+REG-1239,12/08/2024,Chaco,Vidrio,1580.55
+REG-1833,18/03/2024,Buenos Aires,Peligrosos,1032.74
+REG-1211,21/08/2024,Santa Fe,Papel y Cartón,2742.01
+REG-1842,02/05/2025,Salta,Vidrio,5364.61
+REG-1497,24/08/2024,Córdoba,Orgánico,1180.58
+REG-1442,28/11/2025,MENDOZA,Orgánico,6109.95
+REG-1227,21/01/2025,Córdoba,Plásticos,898.25
+REG-2001,05/05/2024,Chaco,Vidrio,768.42
+REG-1746,20/08/2024,Mendoza,Peligrosos,2892.5
+REG-1614,29/09/2024,Mendoza,Plásticos,6638.87
+REG-1931,10/04/2025,Mendoza,Plásticos,2727.79
+REG-1177,31/07/2025,Buenos Aires,Metales,3549.2
+REG-1714,20/04/2025,Tucumán,Plásticos,666.77
+REG-1527,03/01/2026,Misiones,Vidrio,3982.2
+REG-1973,03/08/2024,Misiones,Vidrio,3460.57
+REG-1937,06/10/2025,Buenos Aires,Plásticos,238.77
+REG-1845,13/12/2024,Tucumán,Orgánico,566.68
+REG-1978,29/11/2025,Tucumán,Orgánico,1524.49
+REG-1782,24/12/2025,Salta,Plásticos,868.2
+REG-1007,06/09/2025,Salta,Orgánico,1416.19
+REG-1425,20/05/2025,Tucumán,Papel y Cartón,4221.59
+REG-1155,05/04/2025,Córdoba,Plásticos,2181.64
+REG-1893,07/03/2026,Córdoba,Papel y Cartón,1211.02
+REG-1357,09/10/2024,mendoza,Orgánico,1040.69
+REG-1631,18/12/2025,Tucumán,Papel y Cartón,1554.56
+REG-1223,17/07/2025,Tucumán,Vidrio,1553.99
+REG-1329,06/12/2025,Salta,Orgánico,2547.71
+REG-1582,14/07/2024,Córdoba,Plásticos,2114.79
+REG-1531,05/06/2025,Buenos Aires,Vidrio,1487.53
+REG-1912,24/10/2025,Chaco,Vidrio,1120.16
+REG-1442,28/11/2025,MENDOZA,Orgánico,6109.95
+REG-1667,09/09/2024,MENDOZA,Plásticos,1521.79
+REG-1730,15/11/2025,Misiones,Orgánico,273.87
+REG-1464,12/02/2026,Chaco,Plásticos,2191.06
+REG-1701,31/03/2024,Buenos Aires,Plásticos,1527.65
+REG-1774,23/06/2025,Tucumán,Vidrio,1070.23
+REG-1107,05/03/2024,Salta,Orgánico,1331.04
+REG-1668,17/08/2024,Tucumán,Peligrosos,4450.34
+REG-1740,14/08/2024,Chaco,Plásticos,2198.44
+REG-1661,19/10/2025,Buenos Aires,Vidrio,3654.25
+REG-2043,30/05/2025,Santa Fe,Orgánico,4494.19
+REG-1650,23/11/2025,Chaco,Plásticos,1677.29
+REG-1830,23/03/2024,Santa Fe,Vidrio,4871.45
+REG-1784,01/01/2026,Mendoza,Metales,4961.8
+REG-1163,29/04/2025,Salta,Orgánico,2945.37
+REG-1228,22/04/2024,Misiones,Orgánico,1683.07
+REG-1490,20/01/2026,Salta,Plásticos,4956.28
+REG-2046,15/12/2024,Chaco,Orgánico,2203.42
+REG-1212,14/11/2025,Santa Fe,Orgánico,2749.34
+REG-1898,23/02/2026,MENDOZA,Plásticos,810.77
+REG-1079,03/12/2025,Salta,Vidrio,1663.18
+REG-1148,05/02/2026,Chaco,Papel y Cartón,2411.39
+REG-1302,06/02/2024,Córdoba,Orgánico,1357.69
+REG-1534,28/06/2024,Chaco,Plásticos,2000.29
+REG-1449,07/12/2024,Chaco,Vidrio,1301.01
+REG-1595,01/04/2025,Salta,Plásticos,1464.74
+REG-1694,10/03/2024,Misiones,Papel y Cartón,1233.93
+REG-1043,16/07/2025,Chaco,Plásticos,2226.77
+REG-1895,02/07/2024,Salta,Plásticos,904.58
+REG-1133,10/02/2025,Misiones,Plásticos,1145.94
+REG-1933,12/11/2025,Chaco,Plásticos,3651.72
+REG-1504,03/09/2024,Córdoba,Plásticos,1997.31
+REG-1588,10/01/2025,Santa Fe,Plásticos,540.96
+REG-1311,31/05/2024,Buenos Aires,Plásticos,4273.48
+REG-1408,24/10/2025,Buenos Aires,Plásticos,2900.41
+REG-1558,04/09/2025,Córdoba,Metales,1246.21
+REG-1717,01/01/2024,Buenos Aires,Plásticos,280.62
+REG-1560,30/07/2025,Buenos Aires,Orgánico,707.09
+REG-1923,02/04/2024,Buenos Aires,Vidrio,343.01
+REG-1962,09/09/2024,Córdoba,Plásticos,3854.88
+REG-1883,05/09/2024,Mendoza,Papel y Cartón,3063.25
+REG-1000,12/04/2024,Misiones,Plásticos,826.8
+REG-1422,21/06/2025,Tucumán,Peligrosos,695.55
+REG-1360,03/10/2024,Salta,Orgánico,5099.9
+REG-1382,06/02/2024,Tucumán,Plásticos,4442.87
+REG-1316,09/08/2025,Córdoba,Plásticos,3809.75
+REG-1909,21/01/2026,Tucumán,Vidrio,1244.48
+REG-1963,22/11/2025,Misiones,Orgánico,2539.42
+REG-1875,07/01/2026,Tucumán,Vidrio,4728.72
+REG-1478,27/02/2024,Mendoza,Orgánico,2884.27
+REG-1621,19/01/2024,Chaco,Vidrio,1248.8
+REG-1425,20/05/2025,Tucumán,Papel y Cartón,4221.59
+REG-1140,08/01/2026,Santa Fe,Orgánico,1207.75
+REG-1172,08/06/2024,Córdoba,Plásticos,737.72
+REG-1450,31/10/2024,BUENOS AIRES ,Papel y Cartón,1265.31
+REG-1125,10/02/2024,Salta,Plásticos,1491.7
+REG-1530,31/01/2026,Tucumán,Papel y Cartón,3184.37
+REG-1611,05/10/2024,Salta,Peligrosos,3529.84
+REG-2015,20/04/2024,Mendoza,Vidrio,3659.18
+REG-2040,04/08/2025,Salta,Vidrio,3916.84
+REG-1090,08/09/2024,Tucumán,Orgánico,2389.07
+REG-1158,12/01/2026,Tucumán,Plásticos,2889.59
+REG-1181,07/10/2025,Santa Fe,Plásticos,720.32
+REG-1363,10/10/2024,Salta,Plásticos,1186.07
+REG-1752,07/01/2025,Tucumán,Plásticos,942.75
+REG-1274,06/02/2025,Tucumán,Metales,1839.91
+REG-1903,22/02/2024,Tucumán,Plásticos,2434.34
+REG-1251,14/03/2025,mendoza,Plásticos,3195.32
+REG-1069,24/07/2024,Mendoza,Orgánico,2346.53
+REG-1291,19/09/2024,Córdoba,Plásticos,1125.45
+REG-1131,17/02/2024,Santa Fe,Plásticos,3579.09
+REG-1300,13/10/2025,cordoba,Papel y Cartón,2925.35
+REG-1585,07/05/2025,Córdoba,Plásticos,1069.2
+REG-1326,08/04/2024,Misiones,Papel y Cartón,3119.61
+REG-1144,07/02/2026,Chaco,Plásticos,2088.55
+REG-1552,20/11/2025,Córdoba,Plásticos,455.28
+REG-1707,21/06/2024,Misiones,Plásticos,1147.85
+REG-1753,19/07/2025,Misiones,Orgánico,3074.47
+REG-1495,23/08/2025,MENDOZA,Vidrio,547.51
+REG-1135,28/12/2025,Chaco,Vidrio,5615.98
+REG-1338,26/01/2025,Salta,Plásticos,5712.66
+REG-1787,30/06/2025,Chaco,Plásticos,3313.42
+REG-1164,10/02/2025,Salta,Orgánico,3962.22
+REG-1028,04/04/2025,Buenos Aires,Plásticos,1852.96
+REG-1660,22/08/2024,Mendoza,Vidrio,2464.09
+REG-1193,18/08/2024,Misiones,Orgánico,4632.68
+REG-1677,12/07/2024,Santa Fe,Papel y Cartón,531.18
+REG-1750,18/02/2025,Mendoza,Vidrio,1713.31
+REG-1433,15/10/2025,Salta,Plásticos,3613.8
+REG-1643,28/04/2025,Mendoza,Peligrosos,912.97
+REG-1169,24/06/2025,Bs. As.,Vidrio,620.29
+REG-1587,16/02/2025,Chaco,Plásticos,1618.03
+REG-1173,29/11/2025,Santa Fe,Orgánico,2498.8
+REG-1754,15/09/2024,Chaco,Plásticos,1661.27
+REG-1628,21/09/2024,Salta,Plásticos,3790.65
+REG-1491,05/04/2024,Córdoba,Peligrosos,680.82
+REG-1073,02/01/2024,Tucumán,Plásticos,1339.24
+REG-1802,25/05/2024,Santa Fe,Plásticos,2125.71
+REG-1234,02/01/2024,Santa Fe,Peligrosos,4382.1
+REG-1214,08/01/2025,Buenos Aires,Papel y Cartón,1299.36
+REG-1198,09/10/2024,Misiones,Orgánico,792.66
+REG-1132,17/05/2025,Mendoza,Peligrosos,1957.96
+REG-1649,18/04/2024,Tucumán,Papel y Cartón,4767.04
+REG-1771,28/11/2025,MENDOZA,Plásticos,1535.47
+REG-1185,09/07/2025,Tucumán,Plásticos,1329.63
+REG-1041,08/07/2024,Buenos Aires,Orgánico,3300.12
+REG-1108,04/06/2025,Buenos Aires,Plásticos,2583.39
+REG-1695,08/09/2024,Salta,Plásticos,5379.84
+REG-1539,30/08/2025,Tucumán,Orgánico,2304.83
+REG-1827,07/11/2025,Salta,Plásticos,1594.43
+REG-1483,01/03/2026,Córdoba ,Orgánico,4497.22
+REG-1468,25/09/2024,Chaco,Orgánico,2162.34
+REG-1024,20/01/2025,Tucumán,Orgánico,1357.68
+REG-1548,11/05/2025,Tucumán,Peligrosos,966.9
+REG-1888,28/01/2026,Chaco,Plásticos,1465.92
+REG-1620,29/11/2025,Misiones,Vidrio,2480.9
+REG-1813,01/09/2025,Buenos Aires,Orgánico,742.56
+REG-1366,20/10/2025,Mendoza,Papel y Cartón,1249.64
+REG-1689,25/05/2025,Mendoza,Orgánico,1796.73
+REG-1383,06/10/2024,Chaco,Plásticos,8013.31
+REG-1454,23/02/2024,Misiones,Vidrio,2307.51
+REG-1264,31/08/2025,buenos aires,Orgánico,4659.48
+REG-1626,20/08/2024,Salta,Vidrio,2387.27
+REG-1801,05/03/2024,Mendoza,Peligrosos,2077.94
+REG-1444,08/07/2024,Misiones,Plásticos,2889.43
+REG-1395,12/09/2024,Salta,Orgánico,676.22
+REG-1176,06/03/2026,Córdoba,Peligrosos,3569.09
+REG-1018,23/10/2025,Mendoza,Vidrio,1527.67
+REG-1583,15/05/2025,Córdoba,Orgánico,2304.42
+REG-1756,15/04/2025,Chaco,Orgánico,8460.5
+REG-1061,05/12/2024,Mendoza,Metales,2956.21
+REG-1272,21/10/2025,Misiones,Plásticos,1312.57
+REG-2029,15/11/2024,Tucumán,Papel y Cartón,2857.39
+REG-1278,27/05/2024,Buenos Aires,Orgánico,3994.89
+REG-1961,16/09/2025,Santa Fe,Vidrio,902.17
+REG-1368,30/06/2025,Chaco,Vidrio,4510.37
+REG-1989,08/01/2026,Misiones,Orgánico,1688.53
+REG-2008,28/01/2025,BUENOS AIRES ,Plásticos,4610.42
+REG-1703,14/06/2025,Tucumán,Plásticos,1258.28
+REG-1547,14/09/2024,SANTA FE,Metales,3432.65
+REG-1720,08/07/2024,Chaco,Plásticos,1263.67
+REG-1739,06/11/2025,Tucumán,Plásticos,2121.65
+REG-1456,04/09/2025,Salta,Vidrio,1064.21
+REG-1393,09/09/2024,Mendoza,Orgánico,1768.55
+REG-1070,21/03/2024,Córdoba ,Plásticos,2481.34
+REG-1788,09/09/2024,Mendoza,Orgánico,1319.64
+REG-1375,06/06/2024,Santa Fe,Vidrio,5161.46
+REG-1412,20/01/2025,Mendoza,Plásticos,1490.5
+REG-1074,24/01/2025,Salta,Vidrio,2579.95
+REG-2047,29/08/2025,Chaco,Vidrio,2137.78
+REG-1500,04/12/2025,Chaco,Orgánico,1620.75
+REG-1958,26/01/2024,Chaco,Plásticos,1188.52
+REG-1114,18/05/2024,Mendoza,Orgánico,2689.82
+REG-1417,24/06/2024,Córdoba,Plásticos,2300.28
+REG-1089,27/12/2025,Misiones,Plásticos,1776.36
+REG-2049,16/05/2024,Tucumán,Orgánico,251.24
+REG-2011,18/04/2024,Salta,Orgánico,2325.23
+REG-1716,26/12/2024,Buenos Aires,Plásticos,1078.45
+REG-1723,22/05/2025,Santa Fe,Plásticos,2154.02
+REG-1011,26/11/2024,Tucumán,Plásticos,4246.87
+REG-1396,18/11/2024,Mendoza,Orgánico,673.52
+REG-1622,25/06/2024,Salta,Papel y Cartón,507.42
+REG-2039,10/12/2025,Misiones,Papel y Cartón,5242.4
+REG-1042,17/11/2025,Buenos Aires,Orgánico,2256.84
+REG-1167,16/10/2025,Buenos Aires,Vidrio,600.63
+REG-1416,02/09/2024,Salta,Orgánico,2421.62
+REG-1576,14/02/2026,Chaco,Metales,2646.12
+REG-1887,25/06/2025,Misiones,Plásticos,1653.88
+REG-1426,05/02/2024,Misiones,Papel y Cartón,2749.56
+REG-1544,02/03/2026,Misiones,Orgánico,2034.6
+REG-2026,01/06/2025,Salta,Plásticos,2873.28
+REG-1059,11/12/2024,Tucumán,Vidrio,11482.05
+REG-1803,11/08/2024,Salta,Plásticos,2102.96
+REG-1724,03/01/2025,Buenos Aires,Papel y Cartón,1784.69
+REG-1257,20/10/2024,Mendoza,Papel y Cartón,4895.74
+REG-1335,01/02/2025,Córdoba,Vidrio,1606.59
+REG-1015,09/04/2024,Buenos Aires,Orgánico,2952.95
+REG-1741,20/10/2025,cordoba,Orgánico,4275.57
+REG-1324,24/05/2025,Salta,Plásticos,3785.81
+REG-1889,15/04/2024,Córdoba,Orgánico,2971.26
+REG-1222,17/03/2025,Santa Fe,Orgánico,697.12
+REG-1179,10/07/2025,Córdoba ,Orgánico,3290.11
+REG-1099,04/08/2024,Misiones,Papel y Cartón,3252.86
+REG-1521,07/03/2025,Mendoza,Orgánico,
+REG-1022,06/05/2025,Córdoba,Orgánico,3229.45
+REG-1356,14/02/2026,Santa Fe,Orgánico,588.12
+REG-1785,21/01/2026,Chaco,Vidrio,386.99
+REG-2006,25/01/2024,santa fe,Peligrosos,2811.83
+REG-1824,12/03/2025,Salta,Plásticos,5908.7
+REG-1340,13/07/2024,Córdoba,Vidrio,2319.79
+REG-1431,26/05/2025,Mendoza,Plásticos,1873.59
+REG-2024,28/02/2025,Bs. As.,Papel y Cartón,1931.48
+REG-1974,20/01/2025,Santa Fe,Vidrio,1914.29
+REG-1203,24/12/2024,Tucumán,Peligrosos,7265.49
+REG-1743,16/03/2025,Chaco,Plásticos,205.84
+REG-1093,25/12/2025,Misiones,Vidrio,3471.11
+REG-1656,12/05/2024,Córdoba,Vidrio,4806.55
+REG-1068,04/02/2024,Tucumán,Orgánico,1753.03
+REG-1734,20/03/2024,Córdoba,Vidrio,2314.69
+REG-1284,02/10/2025,Santa Fe,Vidrio,2110.3
+REG-1939,07/06/2025,Buenos Aires,Orgánico,692.21
+REG-1434,15/04/2025,Buenos Aires,Orgánico,610.89
+REG-1153,15/01/2024,Córdoba,Plásticos,
+REG-1075,19/07/2025,Salta,Vidrio,2516.92
+REG-1859,23/01/2025,MENDOZA,Orgánico,3090.45
+REG-1580,24/04/2024,Misiones,Orgánico,2613.78
+REG-1446,29/05/2024,Santa Fe,Plásticos,2987.33
+REG-1188,26/11/2024,Santa Fe,Plásticos,3468.83
+REG-1271,09/02/2026,Tucumán,Plásticos,1475.18
+REG-1236,07/08/2024,Chaco,Papel y Cartón,1470.91
+REG-1487,27/02/2024,Salta,Peligrosos,158.32
+REG-1552,20/11/2025,Córdoba,Plásticos,455.28
+REG-1559,24/09/2024,Tucumán,Plásticos,2729.89
+REG-1117,26/01/2025,Salta,Orgánico,2649.06
+REG-1867,16/08/2024,Tucumán,Plásticos,2038.61
+REG-1485,27/01/2025,Tucumán,Plásticos,2257.78
+REG-1512,07/08/2024,Chaco,Plásticos,3829.21
+REG-1633,18/01/2025,Misiones,Papel y Cartón,767.52
+REG-1907,16/01/2026,Misiones,Plásticos,1792.23
+REG-1822,06/10/2025,Salta,Plásticos,688.74
+REG-2031,18/03/2025,Mendoza,Papel y Cartón,1217.39
+REG-1126,28/01/2024,Córdoba,Plásticos,2956.45
+REG-1116,15/08/2025,Buenos Aires,Plásticos,1084.18
+REG-1473,20/10/2025,Chaco,Orgánico,524.57
+REG-2023,07/07/2025,Córdoba,Papel y Cartón,2376.41
+REG-1057,29/08/2024,Santa Fe,Vidrio,4851.41
+REG-1603,24/10/2025,Santa Fe,Orgánico,1431.39
+REG-1793,25/03/2025,Chaco,Orgánico,4304.24
+REG-1105,05/06/2024,Santa Fe,Plásticos,1606.02
+REG-1635,20/05/2025,Salta,Orgánico,2481.3
+REG-1369,10/07/2024,Buenos Aires,Vidrio,4341.74
+REG-1268,21/11/2024,Mendoza,Plásticos,1671.64
+REG-1655,25/09/2025,Santa Fe,Papel y Cartón,1799.3
+REG-1046,19/05/2025,Misiones,Plásticos,1899.27
+REG-1349,19/01/2026,Córdoba,Plásticos,704.54
+REG-1195,12/08/2024,Misiones,Plásticos,3535.33
+REG-1102,14/01/2025,Santa Fe,Plásticos,669.09
+REG-1982,14/09/2025,Córdoba,Orgánico,2173.34
+REG-1930,05/01/2024,Chaco,Papel y Cartón,5656.39
+REG-1810,05/03/2026,Tucumán,Orgánico,3184.09
+REG-1865,29/10/2024,Córdoba,Orgánico,2742.98
+REG-1263,23/05/2024,Tucumán,Plásticos,147.68
+REG-1881,22/03/2025,Buenos Aires,Vidrio,1039.03
+REG-1443,28/07/2025,Chaco,Peligrosos,556.81
+REG-1969,09/06/2025,Chaco,Papel y Cartón,1272.92
+REG-1304,09/01/2024,Santa Fe,Plásticos,2911.65
+REG-1341,04/02/2025,Misiones,Peligrosos,1001.15
+REG-1861,01/02/2026,Mendoza,Metales,2240.42
+REG-1313,29/04/2024,Córdoba ,Vidrio,295.29
+REG-1149,01/02/2025,Córdoba ,Orgánico,910.58
+REG-1124,18/08/2024,Misiones,Orgánico,835.42
+REG-1920,13/07/2024,Chaco,Plásticos,2168.18
+REG-1982,14/09/2025,Córdoba,Orgánico,2173.34
+REG-1664,09/01/2024,Buenos Aires,Papel y Cartón,2497.38
+REG-1050,21/01/2024,Chaco,Vidrio,4267.09
+REG-1353,30/12/2024,Mendoza,Orgánico,2478.62
+REG-1388,29/08/2025,Salta,Orgánico,996.92
+REG-1142,06/04/2025,Córdoba,Plásticos,2033.15
+REG-1470,27/09/2025,Buenos Aires,Peligrosos,6186.69
+REG-1653,01/02/2025,Salta,Orgánico,2708.78
+REG-1399,03/03/2026,Buenos Aires,Peligrosos,1731.95
+REG-1737,02/02/2026,Santa Fe,Papel y Cartón,694.94
+REG-1320,13/04/2024,Misiones,Plásticos,1376.97
+REG-1019,04/11/2024,Sta Fe,Peligrosos,2862.23
+REG-1684,10/05/2025,Chaco,Peligrosos,5476.06
+REG-1945,13/03/2024,Tucumán,Orgánico,6483.4
+REG-1924,02/11/2025,Chaco,Vidrio,889.97
+REG-1944,30/12/2025,Misiones,Orgánico,2473.87
+REG-1407,14/10/2024,Santa Fe,Plásticos,2279.36
+REG-1537,20/10/2025,Córdoba,Plásticos,3481.08
+REG-1936,27/05/2025,Salta,Vidrio,8012.69
+REG-1732,21/06/2024,santa fe,Vidrio,1872.78
+REG-1038,20/04/2025,Tucumán,Vidrio,6136.2
+REG-1175,26/03/2024,Mendoza,Plásticos,2015.35
+REG-1245,14/11/2025,Córdoba,Vidrio,6937.72
+REG-1968,26/12/2025,Córdoba,Plásticos,4824.03
+REG-1786,11/07/2025,Chaco,Papel y Cartón,2198.57
+REG-1884,14/06/2024,buenos aires,Vidrio,4125.09
+REG-2035,15/10/2024,Tucumán,Vidrio,2961.94
+REG-1154,07/07/2025,Tucumán,Plásticos,3385.68
+REG-1638,09/03/2024,Tucumán,Orgánico,1701.82
+REG-1662,20/01/2026,Salta,Papel y Cartón,621.7
+REG-1287,30/05/2024,Chaco,Orgánico,1195.99
+REG-1625,20/03/2025,Mendoza,Plásticos,1008.95
+REG-1685,30/12/2024,Mendoza,Orgánico,8555.89
+REG-1713,21/10/2025,Tucumán,Vidrio,3407.34
+REG-1569,28/10/2024,Tucumán,Orgánico,4366.11
+REG-1873,04/12/2025,Santa Fe,Papel y Cartón,2241.98
+REG-1017,10/05/2024,Salta,Orgánico,5147.74
+REG-1127,14/05/2024,Santa Fe,Papel y Cartón,2494.83
+REG-1322,14/08/2024,Tucumán,Plásticos,5715.99
+REG-1255,04/02/2025,Buenos Aires,Plásticos,5362.77
+REG-1773,26/06/2024,Buenos Aires,Plásticos,4023.22
+REG-1344,18/11/2025,Misiones,Vidrio,6628.97
+REG-1190,20/05/2025,Córdoba ,Peligrosos,2196.41
+REG-1115,13/05/2025,Chaco,Vidrio,896.76
+REG-1828,14/12/2025,Misiones,Orgánico,2156.51
+REG-1728,27/02/2024,Misiones,Plásticos,2919.68
+REG-1606,06/02/2024,Tucumán,Papel y Cartón,2240.52
+REG-1180,27/07/2025,Buenos Aires,Papel y Cartón,
+REG-1301,28/03/2025,mendoza,Plásticos,1536.82
+REG-1890,16/07/2025,Sta Fe,Orgánico,1048.22
+REG-1837,15/11/2025,Mendoza,Metales,280.0
+REG-1850,06/09/2024,Chaco,Orgánico,727.78
+REG-1988,20/05/2025,Santa Fe,Papel y Cartón,415.77
+REG-1780,24/05/2024,Tucumán,Papel y Cartón,1028.18
+REG-1517,28/03/2025,Chaco,Vidrio,1008.79
+REG-1372,17/01/2024,mendoza,Vidrio,4071.88
+REG-1045,31/08/2024,Tucumán,Papel y Cartón,2977.4
+REG-1476,25/02/2026,Tucumán,Plásticos,4083.0
+REG-1157,28/07/2025,Mendoza,Orgánico,2221.24
+REG-1874,02/02/2026,Misiones,Orgánico,6734.15
+REG-1171,08/06/2025,Córdoba,Orgánico,691.48
+REG-1016,25/10/2025,Chaco,Papel y Cartón,860.26
+REG-1511,11/10/2024,Chaco,Papel y Cartón,87.01
+REG-1048,29/04/2025,Buenos Aires,Orgánico,2995.57
+REG-1191,13/12/2024,Chaco,Orgánico,809.02
+REG-1983,19/01/2026,Salta,Plásticos,1810.89
+REG-1515,03/04/2024,Salta,Plásticos,1394.39
+REG-1799,28/04/2024,Salta,Plásticos,1490.44
+REG-1101,06/07/2024,Córdoba,Plásticos,2219.54
+REG-1480,10/01/2026,Tucumán,Orgánico,352.19
+REG-1283,03/12/2024,Córdoba,Orgánico,1173.92
+REG-1843,10/03/2026,Tucumán,Orgánico,2800.19
+REG-1849,02/06/2024,Buenos Aires,Plásticos,1852.24
+REG-1225,24/05/2025,Misiones,Vidrio,2877.09
+REG-1026,03/10/2024,Chaco,Vidrio,4392.7
+REG-1916,03/06/2025,Misiones,Vidrio,1897.65
+REG-1437,19/12/2024,Chaco,Plásticos,3529.8
+REG-1483,01/03/2026,Córdoba ,Orgánico,4497.22
+REG-1364,25/04/2025,Tucumán,Vidrio,1951.58
+REG-1229,04/09/2025,Buenos Aires,Papel y Cartón,1173.85
+REG-1037,12/11/2025,Mendoza,Vidrio,7045.46
+REG-1669,02/06/2025,Chaco,Papel y Cartón,5875.44
+REG-1749,22/05/2024,Córdoba,Vidrio,2980.38
+REG-1184,11/09/2025,Tucumán,Papel y Cartón,1318.43
+REG-1374,07/08/2024,Chaco,Plásticos,3390.46
+REG-1469,04/01/2025,Córdoba,Plásticos,723.38
+REG-1141,04/09/2025,Mendoza,Orgánico,726.15
+REG-1687,14/05/2025,Misiones,Vidrio,3072.08
+REG-1994,28/01/2024,Salta,Plásticos,1338.17
+REG-1825,23/01/2024,Mendoza,Plásticos,3983.67
+REG-1853,27/04/2024,Córdoba,Papel y Cartón,3727.5
+REG-1194,08/07/2024,Salta,Orgánico,6656.07
+REG-1999,26/03/2024,Buenos Aires,Peligrosos,3394.96
+REG-2009,07/03/2024,Mendoza,Plásticos,3159.55
+REG-1503,28/02/2026,Buenos Aires,Peligrosos,475.17
+REG-1390,30/11/2025,Mendoza,Plásticos,3078.35
+REG-1971,28/01/2024,Buenos Aires,Orgánico,1476.09
+REG-1579,21/02/2025,Santa Fe,Papel y Cartón,3831.89
+REG-1160,17/07/2025,Tucumán,Plásticos,678.16
+REG-1680,13/06/2024,Buenos Aires,Plásticos,765.24
+REG-2033,10/01/2026,Misiones,Plásticos,1499.96
+REG-1162,03/01/2026,MENDOZA,Vidrio,2558.48
+REG-1705,05/05/2024,Mendoza,Vidrio,706.26
+REG-1823,09/02/2026,Mendoza,Plásticos,362.29
+REG-1152,25/07/2024,Tucumán,Plásticos,2546.95
+REG-1800,08/01/2025,Córdoba,Vidrio,1487.81
+REG-1820,20/04/2025,Mendoza,Papel y Cartón,1783.31
+REG-1886,30/11/2024,Buenos Aires,Plásticos,1041.42
+REG-1111,09/10/2025,Buenos Aires,Orgánico,633.23
+REG-1226,20/01/2025,Córdoba,Plásticos,2442.23
+REG-1807,08/10/2024,Salta,Metales,2718.82
+REG-1103,07/05/2025,Buenos Aires,Vidrio,1321.82
+REG-1421,28/01/2026,Mendoza,Vidrio,1675.84
+REG-1419,21/04/2025,Córdoba,Plásticos,1699.91
+REG-1880,10/03/2025,Córdoba,Plásticos,4951.01
+REG-1586,15/03/2024,Tucumán,Papel y Cartón,2037.25
+REG-1914,04/04/2024,Córdoba,Vidrio,1080.65
+REG-1672,16/06/2024,Tucumán,Orgánico,1533.76
+REG-1119,22/02/2025,Salta,Orgánico,1505.28
+REG-1053,22/01/2025,Santa Fe,Orgánico,797.79
+REG-1151,27/01/2025,Tucumán,Plásticos,1336.25
+REG-1403,18/11/2024,Misiones,Papel y Cartón,1687.38
+REG-1306,08/04/2024,Chaco,Plásticos,2843.07
+REG-1207,10/10/2025,Misiones,Orgánico,2207.4
+REG-1658,02/08/2024,Buenos Aires,Orgánico,1466.66
+REG-1987,30/09/2024,Tucumán,Papel y Cartón,2521.27
+REG-1894,17/05/2024,Tucumán,Papel y Cartón,3837.27
+REG-1008,01/05/2024,Buenos Aires,Plásticos,3806.32
+REG-1943,18/03/2024,Córdoba,Vidrio,1429.54
+REG-1036,25/05/2025,Buenos Aires,Plásticos,4161.33
+REG-1452,12/11/2025,Misiones,Plásticos,89.4
+REG-1651,11/02/2024,Salta,Orgánico,1056.41
+REG-1253,02/07/2024,Mendoza,Orgánico,3234.15
+REG-1303,08/06/2024,Chaco,Plásticos,503.09
+REG-1876,01/11/2024,Mendoza,Plásticos,1196.03
+REG-1571,13/05/2025,Salta,Orgánico,6307.01
+REG-1623,03/09/2025,Chaco,Orgánico,1301.07
+REG-1832,25/03/2024,Mendoza,Plásticos,1303.61
+REG-1844,03/02/2024,Santa Fe,Plásticos,1741.21
+REG-1834,01/04/2025,Mendoza,Papel y Cartón,1946.99
+REG-1262,21/01/2026,Buenos Aires,Plásticos,693.64
+REG-1610,08/06/2025,Chaco,Plásticos,5208.63
+REG-1297,02/01/2024,SANTA FE,Orgánico,936.89
+REG-1414,13/04/2024,Misiones,Plásticos,3241.62
+REG-1150,05/03/2026,Tucumán,Plásticos,4551.2
+REG-1922,28/10/2025,Tucumán,Plásticos,1749.49
+REG-1778,04/12/2025,Misiones,Plásticos,3681.66
+REG-1640,30/01/2025,Buenos Aires,Plásticos,5551.01
+REG-2032,10/11/2024,Santa Fe,Orgánico,4929.33
+REG-1550,19/04/2025,santa fe,Orgánico,4881.01
+REG-1925,01/03/2024,Córdoba,Orgánico,3831.26
+REG-1488,25/09/2025,Mendoza,Papel y Cartón,2682.96
+REG-1819,01/06/2025,Santa Fe,Plásticos,7398.01
+REG-1710,07/08/2024,Mendoza,Papel y Cartón,72.97
+REG-1147,17/05/2025,Salta,Papel y Cartón,1568.34
+REG-1146,05/08/2024,Tucumán,Orgánico,429.81
+REG-1846,04/04/2024,Santa Fe,Metales,1906.7
+REG-1345,04/04/2025,Buenos Aires,Plásticos,2403.75
+REG-1868,31/07/2025,Sta Fe,Orgánico,3751.47
+REG-2028,08/10/2024,Santa Fe,Orgánico,1924.74
+REG-1659,02/01/2026,Tucumán,Metales,1529.82
+REG-1770,09/10/2025,Salta,Plásticos,2356.08
+REG-1348,22/01/2024,Córdoba,Vidrio,3191.02
+REG-1463,14/07/2024,Tucumán,Vidrio,384.54
+REG-1325,17/04/2025,Buenos Aires,Papel y Cartón,1032.69
+REG-1186,05/12/2024,Córdoba,Papel y Cartón,2376.7
+REG-1123,04/05/2025,Buenos Aires,Plásticos,2918.58
+REG-1998,18/08/2024,Santa Fe,Orgánico,349.03
+REG-1608,03/01/2025,Mendoza,Orgánico,2052.98
+REG-1143,04/10/2025,Chaco,Orgánico,3712.24
+REG-1751,27/05/2025,Chaco,Orgánico,4450.09
+REG-1570,09/09/2024,Sta Fe,Orgánico,1700.7
+REG-1197,11/01/2025,Buenos Aires,Papel y Cartón,2891.49
+REG-1609,25/11/2025,Tucumán,Orgánico,781.22
+REG-1836,20/02/2024,Salta,Papel y Cartón,2535.65
+REG-1279,11/12/2025,Santa Fe,Plásticos,2582.36
+REG-1293,23/05/2024,Mendoza,Plásticos,667.81
+REG-1972,18/03/2024,Buenos Aires,Orgánico,6447.41
+REG-1400,04/01/2026,Salta,Orgánico,1327.74
+REG-1122,11/02/2026,Chaco,Plásticos,955.87
+REG-1183,28/01/2024,Tucumán,Plásticos,3068.42
+REG-1202,15/09/2024,Buenos Aires,Papel y Cartón,2730.14
+REG-1438,10/03/2026,Mendoza,Peligrosos,2548.45
+REG-1835,01/01/2024,Misiones,Papel y Cartón,1637.42
+REG-1246,30/12/2025,CORDOBA,Papel y Cartón,2594.43
+REG-1415,27/01/2025,Mendoza,Papel y Cartón,3973.5
+REG-1910,20/04/2024,Córdoba,Papel y Cartón,718.15
+REG-1031,09/09/2024,Santa Fe,Papel y Cartón,1209.74
+REG-2042,15/09/2025,Córdoba,Papel y Cartón,4209.68
+REG-1901,29/06/2025,Santa Fe,Metales,3465.9
+REG-1052,30/09/2024,Salta,Orgánico,2693.62
+REG-1129,18/02/2026,Misiones,Plásticos,1788.27
+REG-1637,23/05/2024,Buenos Aires,Plásticos,1359.27
+REG-1402,23/07/2025,Misiones,Plásticos,1114.38
+REG-1918,26/11/2025,Santa Fe,Vidrio,911.19
+REG-1904,25/03/2025,Misiones,Orgánico,1196.09
+REG-1735,31/07/2024,Mendoza,Plásticos,1483.53
+REG-1854,09/02/2026,Chaco,Orgánico,1629.8
+REG-2045,21/03/2025,Tucumán,Papel y Cartón,3500.14
+REG-1219,22/11/2025,Salta,Vidrio,1006.64
+REG-1641,25/01/2024,Santa Fe,Papel y Cartón,2108.23
+REG-1001,11/03/2025,Misiones,Plásticos,3822.11
+REG-1882,03/11/2024,Buenos Aires,Papel y Cartón,1077.88
+REG-1941,15/02/2024,Salta,Plásticos,1203.77
+REG-1080,05/02/2025,BUENOS AIRES ,Plásticos,352.16
+REG-1624,30/01/2025,Chaco,Plásticos,763.2
+REG-1980,07/01/2024,Buenos Aires,Papel y Cartón,3792.04
+REG-1892,12/05/2024,Salta,Orgánico,269.45
+REG-1386,28/10/2024,Salta,Papel y Cartón,3595.55
+REG-1826,18/07/2025,Chaco,Plásticos,2218.4
+REG-1806,17/02/2026,Mendoza,Vidrio,2270.09
+REG-1509,26/03/2024,Salta,Orgánico,1905.72
+REG-1267,05/07/2024,Tucumán,Plásticos,960.07
+REG-1956,26/07/2025,Mendoza,Plásticos,2613.38
+REG-1441,26/10/2025,Santa Fe,Peligrosos,2348.37
+REG-1496,02/05/2025,Tucumán,Peligrosos,4506.96
+REG-1829,02/04/2025,Misiones,Vidrio,2104.95
+REG-1112,16/04/2025,Mendoza,Plásticos,3208.14
+REG-1691,04/08/2024,Salta,Plásticos,368.13
+REG-1232,29/11/2025,Misiones,Peligrosos,1362.39
+REG-2014,15/08/2024,Buenos Aires,Orgánico,981.64
+REG-1607,18/02/2026,Córdoba,Plásticos,1585.67
+REG-1671,14/10/2025,Salta,Vidrio,2945.87
+REG-1373,20/06/2024,Chaco,Vidrio,3557.66
+REG-1826,18/07/2025,Chaco,Plásticos,2218.4
+REG-1663,10/08/2025,Mendoza,Plásticos,727.74
+REG-1986,22/05/2025,Salta,Plásticos,2937.17
+REG-1233,22/04/2024,Misiones,Plásticos,1585.13
+REG-1818,08/02/2025,Córdoba,Plásticos,746.68
+REG-1919,07/10/2024,Mendoza,Plásticos,2161.7
+REG-1676,25/09/2025,Misiones,Plásticos,1202.44
+REG-1317,16/09/2025,Misiones,Plásticos,2964.32
+REG-1648,08/02/2024,Bs As,Vidrio,3491.33
+REG-1410,03/06/2024,Buenos Aires,Papel y Cartón,1272.04
+REG-2036,12/03/2025,Mendoza,Vidrio,4895.66
+REG-1709,23/01/2026,CORDOBA,Orgánico,919.17
+REG-1358,27/01/2024,Tucumán,Plásticos,3098.36
+REG-1258,06/10/2024,Salta,Metales,1351.47
+REG-1744,05/02/2025,Córdoba,Orgánico,2604.16
+REG-1627,16/03/2024,Mendoza,Papel y Cartón,568.95
+REG-1632,04/01/2026,Salta,Peligrosos,769.3
+REG-1282,04/07/2025,Buenos Aires,Vidrio,3824.96
+REG-1376,21/04/2025,Misiones,Orgánico,1369.2
+REG-1384,14/12/2024,Chaco,Orgánico,6870.52
+REG-1224,24/09/2024,Chaco,Vidrio,6034.35
+REG-1847,12/03/2024,Santa Fe,Orgánico,840.35
+REG-1950,01/08/2024,Buenos Aires,Plásticos,302.98
+REG-1472,31/10/2025,Mendoza,Plásticos,2893.58
+REG-1347,09/01/2025,Santa Fe,Papel y Cartón,4390.87
+REG-1505,16/03/2024,Salta,Papel y Cartón,1667.32
+REG-1639,08/04/2024,Tucumán,Vidrio,2361.16
+REG-1799,28/04/2024,Salta,Plásticos,1490.44
+REG-1797,07/09/2024,Salta,Orgánico,1642.76
+REG-1339,14/05/2024,CORDOBA,Vidrio,6801.2
+REG-1555,28/06/2025,Tucumán,Vidrio,1375.85
+REG-1619,31/01/2025,Tucumán,Plásticos,390.77
+REG-2000,18/04/2025,Misiones,Plásticos,5043.29
+REG-1938,20/08/2024,Salta,Plásticos,1874.36
+REG-1645,30/05/2024,Santa Fe,Plásticos,151.77
+REG-1990,15/01/2024,MENDOZA,Plásticos,4438.8
+REG-1556,21/11/2025,Santa Fe,Plásticos,1470.53
+REG-1681,25/02/2025,buenos aires,Papel y Cartón,1930.39
+REG-1577,27/08/2025,Córdoba,Papel y Cartón,2644.29
+REG-1795,08/03/2026,Buenos Aires,Orgánico,5705.27
+REG-1085,26/09/2024,Buenos Aires,Papel y Cartón,703.86
+REG-1242,29/09/2025,Mendoza,Plásticos,1629.14
+REG-1698,20/03/2025,Salta,Orgánico,1679.51
+REG-2020,03/01/2025,Buenos Aires,Vidrio,3239.63
+REG-1159,28/08/2024,Salta,Orgánico,
+REG-1524,03/09/2025,Santa Fe,Orgánico,4868.35
+REG-1035,28/02/2024,Tucumán,Plásticos,3142.84
+REG-1540,07/02/2026,Buenos Aires,Metales,3423.8
+REG-1170,05/02/2024,Salta,Plásticos,1358.54
+REG-1654,10/08/2024,Tucumán,Metales,2993.57
+REG-1748,09/06/2025,Misiones,Orgánico,6735.95
+REG-2002,20/06/2025,Tucumán,Plásticos,3143.32
+REG-1991,10/07/2024,Chaco,Orgánico,2326.89
+REG-1484,06/05/2024,Santa Fe,Plásticos,2471.14
+REG-1733,28/05/2024,Mendoza,Vidrio,358.4
+REG-1899,22/05/2025,Salta,Orgánico,1222.2
+REG-1095,18/01/2026,Tucumán,Orgánico,1449.85
+REG-1563,12/02/2024,Misiones,Plásticos,2045.43
+REG-1240,19/01/2025,Misiones,Papel y Cartón,2022.15
+REG-1742,15/06/2025,Misiones,Peligrosos,5364.01
+REG-1863,15/09/2025,Chaco,Papel y Cartón,2116.74
+REG-1574,27/12/2025,Chaco,Orgánico,2144.48
+REG-1690,22/11/2024,Córdoba ,Peligrosos,1650.31
+REG-1460,11/09/2025,Salta,Plásticos,3073.51
+REG-1891,21/03/2024,Buenos Aires,Orgánico,623.93
+REG-1553,05/11/2025,Mendoza,Orgánico,689.74
+REG-1857,23/02/2024,Mendoza,Vidrio,1478.2
+REG-2024,28/02/2025,Bs. As.,Papel y Cartón,1931.48
+REG-1206,14/02/2025,Chaco,Papel y Cartón,2782.54
+REG-1392,09/07/2024,santa fe,Orgánico,1474.52
+REG-1794,10/01/2024,Santa Fe,Plásticos,1757.64
+REG-1870,10/03/2025,Buenos Aires,Orgánico,8021.51
+REG-1397,07/05/2024,Chaco,Plásticos,2357.13
+REG-1766,01/05/2024,Mendoza,Plásticos,1906.83
+REG-1992,22/09/2025,Salta,Papel y Cartón,1545.17
+REG-1217,16/04/2025,Chaco,Orgánico,1256.88
+REG-1004,12/03/2024,Mendoza,Plásticos,538.31
+REG-1768,06/11/2025,Salta,Vidrio,631.79
+REG-1642,13/04/2025,Salta,Orgánico,1164.16
+REG-1461,05/01/2024,Buenos Aires,Orgánico,1335.26
+REG-1942,29/06/2025,Mendoza,Peligrosos,2534.03
+REG-1612,04/08/2024,Córdoba,Plásticos,1839.52
+REG-1738,16/08/2024,Santa Fe,Plásticos,2586.5
+REG-1960,08/01/2024,Mendoza,Plásticos,2629.28
+REG-1546,28/01/2026,SANTA FE,Papel y Cartón,4738.72
+REG-1725,12/02/2025,Mendoza,Plásticos,651.46
+REG-1986,22/05/2025,Salta,Plásticos,2937.17
+REG-1683,09/10/2025,Santa Fe,Vidrio,992.07
+REG-1098,02/03/2026,Córdoba,Plásticos,4309.66
+REG-1804,26/08/2024,Tucumán,Orgánico,1697.37
+REG-1727,13/05/2024,Chaco,Vidrio,681.73
+REG-1573,04/02/2024,Buenos Aires,Plásticos,1525.73
+REG-1406,17/09/2025,Chaco,Peligrosos,1019.35
+REG-1502,03/08/2025,Salta,Vidrio,6317.0
+REG-1047,10/05/2024,Buenos Aires,Plásticos,1149.26
+REG-1032,17/01/2026,Mendoza,Plásticos,656.52
+REG-1929,27/02/2026,Santa Fe,Plásticos,4193.0
+REG-1779,16/05/2025,Tucumán,Orgánico,1953.27
+REG-1839,10/02/2026,Tucumán,Plásticos,858.63
+REG-1200,19/09/2025,Buenos Aires,Orgánico,2239.67
+REG-1134,27/07/2025,Córdoba,Papel y Cartón,1065.91
+REG-1027,09/06/2024,Santa Fe,Vidrio,988.08
+REG-1040,21/02/2026,Córdoba,Orgánico,1330.35
+REG-1230,16/09/2025,Chaco,Plásticos,2692.11
+REG-1489,27/05/2025,Chaco,Papel y Cartón,971.58
+REG-1772,11/11/2024,Salta,Peligrosos,2466.84
+REG-1378,07/01/2025,Salta,Plásticos,1575.53
+REG-1288,18/02/2025,Tucumán,Orgánico,3243.59
+REG-1418,08/02/2024,Misiones,Orgánico,5020.77
+REG-1674,27/01/2025,Santa Fe,Orgánico,726.19
+REG-1391,25/04/2024,Chaco,Plásticos,886.28
+REG-1592,30/01/2026,Buenos Aires,Orgánico,2351.61
+REG-1498,28/09/2024,Misiones,Plásticos,3111.72
+REG-1138,26/12/2025,Tucumán,Plásticos,4419.62
+REG-1062,01/04/2024,Córdoba,Plásticos,334.52
+REG-1471,15/04/2024,Mendoza,Orgánico,2175.94
+REG-1647,22/07/2025,Córdoba,Plásticos,906.47
+REG-2003,24/05/2024,Buenos Aires,Orgánico,2654.1
+REG-1128,19/07/2024,Buenos Aires,Orgánico,2639.42
+REG-1749,22/05/2024,Córdoba,Vidrio,2980.38
+REG-1520,18/04/2025,Tucumán,Papel y Cartón,1073.87
+REG-1838,17/12/2025,Buenos Aires,Orgánico,2179.1
+REG-1290,02/09/2025,Mendoza,Vidrio,251.68
+REG-1064,30/03/2025,Salta,Plásticos,991.78
+REG-1812,05/04/2025,Buenos Aires,Plásticos,833.2
+REG-1014,07/01/2025,Buenos Aires,Plásticos,4093.79
+REG-1492,29/09/2025,Misiones,Plásticos,4343.94
+REG-1379,01/06/2025,Mendoza,Papel y Cartón,1650.55
+REG-1187,08/03/2026,Córdoba,Metales,5999.49
+REG-1763,29/10/2025,Chaco,Plásticos,1126.81
+REG-1216,30/08/2025,Chaco,Papel y Cartón,949.75
+REG-1791,12/09/2024,Córdoba,Orgánico,3533.58
+REG-1878,08/03/2026,Córdoba,Plásticos,260.32
+REG-1337,18/05/2025,Salta,Plásticos,932.05
+REG-1719,13/12/2024,Córdoba,Vidrio,4003.28
+REG-1295,15/09/2025,mendoza,Papel y Cartón,1748.5
+REG-2016,14/04/2025,Chaco,Vidrio,1981.89
+REG-1455,19/03/2025,Salta,Orgánico,2202.48
+REG-1815,08/04/2024,Sta Fe,Vidrio,1329.17
+REG-1269,08/04/2025,Chaco,Orgánico,708.43
+REG-1995,14/12/2025,Córdoba,Plásticos,2152.01
+REG-1201,14/01/2026,Tucumán,Orgánico,1121.27
+REG-1161,05/04/2024,Mendoza,Orgánico,4354.8
+REG-1729,09/07/2025,Tucumán,Plásticos,3143.67
+REG-1401,19/07/2025,Mendoza,Vidrio,203.47
+REG-1702,14/12/2025,Córdoba,Plásticos,4217.86
+REG-1565,11/10/2024,Tucumán,Papel y Cartón,2575.52
+REG-2021,17/01/2026,Buenos Aires,Orgánico,5241.82
+REG-2025,04/09/2025,Misiones,Orgánico,3669.77
+REG-1205,31/03/2025,Buenos Aires,Papel y Cartón,1899.52
+REG-1034,19/04/2025,Salta,Plásticos,4862.7
+REG-1775,01/01/2026,Córdoba ,Vidrio,7516.23
+REG-1508,10/03/2025,mendoza,Peligrosos,912.67
+REG-1491,05/04/2024,Córdoba,Peligrosos,680.82
+REG-1091,02/12/2025,Salta,Orgánico,763.83
+REG-1897,25/11/2024,Tucumán,Peligrosos,642.05
+REG-1564,09/07/2025,Chaco,Plásticos,1806.88
+REG-1776,10/02/2024,Mendoza,Vidrio,847.82
+REG-1241,06/02/2025,Misiones,Vidrio,2599.23
+REG-1013,28/03/2024,Mendoza,Plásticos,3294.81
+REG-1315,19/09/2025,Tucumán,Papel y Cartón,1014.22
+REG-1600,01/07/2025,Chaco,Papel y Cartón,1995.74
+REG-1387,29/06/2024,Salta,Plásticos,2393.28
+REG-1166,18/01/2026,Santa Fe,Papel y Cartón,743.38
+REG-1840,21/03/2025,Tucumán,Vidrio,1202.75
+REG-1020,08/02/2026,Chaco,Plásticos,631.74
+REG-1646,23/05/2024,Mendoza,Vidrio,1306.58
+REG-1831,24/05/2024,Misiones,Vidrio,2627.36
+REG-1562,16/06/2024,Córdoba,Plásticos,777.5
+REG-1244,22/02/2024,Buenos Aires,Papel y Cartón,5132.4
+REG-1686,07/12/2024,Chaco,Plásticos,1642.26
+REG-1957,02/12/2024,Chaco,Vidrio,1434.36
+REG-1189,01/10/2025,Tucumán,Orgánico,391.19
+REG-1975,30/12/2024,Buenos Aires,Plásticos,1051.57
+REG-1699,30/06/2024,Córdoba,Plásticos,2257.66
+REG-1510,27/11/2025,Buenos Aires,Peligrosos,3038.62
+REG-1474,18/10/2025,mendoza,Vidrio,1244.91
+REG-1856,24/09/2024,Salta,Plásticos,2296.31
+REG-1747,31/10/2024,Buenos Aires,Plásticos,1038.25
+REG-1252,21/07/2024,Tucumán,Orgánico,1352.76
+REG-1021,09/12/2024,Misiones,Plásticos,4401.26
+REG-1459,25/07/2025,Mendoza,Metales,7349.67
+REG-1276,25/05/2025,Salta,Metales,1876.35
+REG-1955,17/02/2024,Salta,Orgánico,3717.02
+REG-1385,11/05/2025,Chaco,Plásticos,1969.99
+REG-1805,25/06/2024,Misiones,Plásticos,3424.25
+REG-1343,02/02/2024,Mendoza,Peligrosos,1597.41
+REG-1769,30/03/2024,Chaco,Vidrio,716.61
+REG-1130,02/02/2024,Chaco,Metales,669.44
+REG-1871,12/04/2024,Salta,Metales,8959.39
+REG-1087,31/03/2025,Tucumán,Metales,2559.8
+REG-1330,11/06/2024,Buenos Aires,Peligrosos,1588.62
+REG-1466,16/02/2024,Misiones,Plásticos,2209.92
+REG-1121,13/01/2025,Tucumán,Orgánico,2185.43
+REG-2044,15/12/2024,Buenos Aires,Vidrio,741.32
+REG-1860,03/01/2026,MENDOZA,Vidrio,1005.09
